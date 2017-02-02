@@ -16,5 +16,5 @@ y = np.sin(t)
 plt.plot(t,y)
 plt.show()
 ```
-
+![alt tag](https://cloud.githubusercontent.com/assets/17966893/22561723/192f5dc4-e982-11e6-9ba8-32ad9aa3acc3.png)
 
