@@ -25,3 +25,7 @@ http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
 **Hamilton's Principal:** Of all the possible trajectories of a system that connect the configurations $q_1$ and $q_2$ in the interval $[t_1,t_2]$, the actual motion $q^*(t)$ makes the action functional $S(q)$ of the system stationary.
 $$ S(q) = \int_{t_1}^{t_2} L(q, \dot q, t)dt $$
 $$\delta S = 0$$
+
+```math #yourmathlabel
+a + b = c
+```
