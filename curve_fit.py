@@ -19,3 +19,6 @@ plt.scatter(xdata, ydata, color='red')
 plt.plot(xdata, yfit)
 plt.show()
 
+"""
+naber
+"""
